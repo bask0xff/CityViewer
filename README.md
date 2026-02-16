@@ -1,7 +1,5 @@
 # CityViewer
 
-<img src="https://via.placeholder.com/800x400.png?text=CityViewer+Screenshot" alt="CityViewer main screen" width="800"/>
-
 **CityViewer** is an Android application for viewing and exploring urban spaces.
 
 (Description currently missing — please add what the app actually does)
