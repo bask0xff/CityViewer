@@ -45,6 +45,7 @@
 ```
 
 ### Project Structure
+```
 CityViewer/
 ├── app/                    # Main Android application module
 │   ├── src/
@@ -58,6 +59,7 @@ CityViewer/
 ├── build.gradle            # Root build file
 ├── settings.gradle
 └── README.md
+```
 
 ### Roadmap / TODO
 
