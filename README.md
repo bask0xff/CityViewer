@@ -32,6 +32,7 @@
 1. Clone the repository
    ```bash
    git clone https://github.com/bask0xff/CityViewer.git
+   ```
 2. Open the project in Android Studio
 3. Wait for Gradle sync to complete
 4. Run the app on an emulator or physical device
@@ -40,7 +41,7 @@
 
 ```bash
 ./gradlew assembleDebug
-
+```
 ### Project Structure
 CityViewer/
 ├── app/                    # Main Android application module
