@@ -63,13 +63,13 @@ CityViewer/
 
 ### Roadmap / TODO
 
- Integrate real geodata source (OSM, GeoJSON, 3D Tiles…)
- Add support for 3D building models
- Implement address / POI search
- Add AR mode (if planned)
- Dark theme + settings
- Performance optimization for low-end devices
- Code documentation + architecture (MVVM / Clean Architecture / …)
+ - **Integrate real geodata source (OSM, GeoJSON, 3D Tiles…)**
+ - **Add support for 3D building models**
+ - **Implement address / POI search**
+ - **Add AR mode (if planned)**
+ - **Dark theme + settings**
+ - **Performance optimization for low-end devices**
+ - **Code documentation + architecture (MVVM / Clean Architecture / …)**
 
 ### License
 MIT License (or replace with your preferred license)
