@@ -12,6 +12,14 @@
 - Display modes: day/night, wireframe, density heatmap, and more
 - (Add your real features here)
 
+## Donate
+
+USDT TRC20 : THR5VLuZWn7z8iiXwJ1WK9Sg4E6Ae8qUmk
+
+USDT ERC20 : 0x4b5fAF36e95918AD3e65bF9bd42E1FDEca93db2e
+
+Bitcoin BTC : 1AqcSbBw1UDULszboqi8mq8jE7Kykwwncm
+
 ## Tech Stack
 
 - **Language**: Java
